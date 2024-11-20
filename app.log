@@ -1,0 +1,18 @@
+2024-09-26 16:08:05,366 [INFO] - Loading model and processor.
+2024-09-26 16:08:05,369 [DEBUG] - Starting new HTTPS connection (1): huggingface.co:443
+2024-09-26 16:08:08,793 [DEBUG] - https://huggingface.co:443 "HEAD /valentinafeve/yolos-fashionpedia/resolve/main/preprocessor_config.json HTTP/1.1" 200 0
+2024-09-26 16:08:09,648 [DEBUG] - https://huggingface.co:443 "HEAD /valentinafeve/yolos-fashionpedia/resolve/main/config.json HTTP/1.1" 200 0
+2024-09-26 16:08:10,124 [DEBUG] - https://huggingface.co:443 "HEAD /valentinafeve/yolos-fashionpedia/resolve/main/model.safetensors HTTP/1.1" 404 0
+2024-09-26 16:08:10,251 [INFO] - Model loaded successfully.
+2024-09-26 16:11:47,365 [INFO] - Loading model and processor.
+2024-09-26 16:11:47,368 [DEBUG] - Starting new HTTPS connection (1): huggingface.co:443
+2024-09-26 16:11:50,775 [DEBUG] - https://huggingface.co:443 "HEAD /valentinafeve/yolos-fashionpedia/resolve/main/preprocessor_config.json HTTP/1.1" 200 0
+2024-09-26 16:11:51,407 [DEBUG] - https://huggingface.co:443 "HEAD /valentinafeve/yolos-fashionpedia/resolve/main/config.json HTTP/1.1" 200 0
+2024-09-26 16:11:51,786 [DEBUG] - https://huggingface.co:443 "HEAD /valentinafeve/yolos-fashionpedia/resolve/main/model.safetensors HTTP/1.1" 404 0
+2024-09-26 16:11:51,904 [INFO] - Model loaded successfully.
+2024-09-26 16:13:57,287 [INFO] - Loading model and processor.
+2024-09-26 16:13:57,290 [DEBUG] - Starting new HTTPS connection (1): huggingface.co:443
+2024-09-26 16:14:00,711 [DEBUG] - https://huggingface.co:443 "HEAD /valentinafeve/yolos-fashionpedia/resolve/main/preprocessor_config.json HTTP/1.1" 200 0
+2024-09-26 16:14:01,385 [DEBUG] - https://huggingface.co:443 "HEAD /valentinafeve/yolos-fashionpedia/resolve/main/config.json HTTP/1.1" 200 0
+2024-09-26 16:14:01,748 [DEBUG] - https://huggingface.co:443 "HEAD /valentinafeve/yolos-fashionpedia/resolve/main/model.safetensors HTTP/1.1" 404 0
+2024-09-26 16:14:01,865 [INFO] - Model loaded successfully.
